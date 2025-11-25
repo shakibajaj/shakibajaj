@@ -1,10 +1,10 @@
 Hi there 👋
 
 - ⭐ I’m @AjajShakib
-- 👀 I'm interested in BlockChain & Web Dev.
-- 🌱 I’m currently learning Python, Solana , JS & Tailwind.
-- 🙋🏻 I’m looking to collaborate on Python Projects.
-- 🤔 I’m looking for help in making a SAAS Startup.
+- 👀 I'm interested in Full-Stack Development.
+- 🌱 I’m currently learning React.js, Tailwind , JavaScript & Node.js.
+- 🙋🏻 I’m looking to collaborate on Frontend Projects for sharpening my skills.
+- 🤔 I’m looking for help in making a Full-Stack WebApp that makes worth for the users.
 - 📫 How to reach me: ajajshakibiimt@gmail.com
 
 
@@ -18,5 +18,3 @@ Hi there 👋
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shakibajaj&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
